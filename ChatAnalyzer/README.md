@@ -73,7 +73,6 @@ chatlyzer/
 ├── config/
 ├── utils/
 ├── components/
-├── ai/
 └── images/
 ```
 
