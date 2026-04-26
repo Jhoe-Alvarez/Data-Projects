@@ -168,10 +168,8 @@ RETURN DIVIDE(precio_con - precio_sin, precio_sin)
 ├── 📄 README.md
 ├── 📁 dashboard/
 │   ├── alquiler lima.pbix        # Archivo Power BI Desktop
-│   └── Dashboard-imagen.png      # Captura del dashboard
-├── 📁 data/                      # Reservado para versión limpia del dataset
+│   └── Dashboard-imagen.png      # Captura del dashboard                 
 ├── 📁 excel/                     # Exportaciones y análisis auxiliares
-├── 📁 modelo/                    # Documentación del modelo de datos
 └── 📁 scrapping/
     ├── alquileres_lima_crudo.csv  # Dataset original scrapeado
     └── scraper_inmobiliario.py   # Script de scraping con Scrapy
@@ -197,21 +195,6 @@ RETURN DIVIDE(precio_con - precio_sin, precio_sin)
 - **Power BI Desktop** v2.153.910.0 (abril 2026)
 - **DAX** — medidas y KPIs calculados
 - **Python + Scrapy** — scraping de datos desde Urbania
-
----
-
-## 🚀 Cómo usar este proyecto
-
-```bash
-# 1. Clona el repositorio
-git clone https://github.com/tu-usuario/analisis-alquiler-lima.git
-
-# 2. Abre el dashboard en Power BI Desktop
-#    Navega a dashboard/ y abre "alquiler lima.pbix"
-
-# 3. Si la fuente de datos no carga
-#    Inicio → Transformar datos → actualiza la ruta del CSV en scrapping/
-```
 
 ---
 
