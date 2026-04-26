@@ -24,7 +24,7 @@ Este proyecto analiza **368 registros de anuncios de alquiler** en Lima Metropol
 
 ## 📊 Vista previa del dashboard
 
-![Dashboard Análisis Mercado de Alquiler Lima](dashboard/Dashboard-imagen.png)
+![Dashboard Análisis Mercado de Alquiler Lima](Dashboard-imagen.png)
 
 ### Visuals incluidos
 
